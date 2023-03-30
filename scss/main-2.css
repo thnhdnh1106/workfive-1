@@ -1,0 +1,96 @@
+.column-wrap.populated-bg {
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+section.setion.inner-section.section-height-default {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
+.column-wrap.populated-bg-1 {
+    background-color: #f4f1eb;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    margin: 15px 10px 15px 0;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+}
+.column-wrap.populated-bg-1 {
+    border-radius: 10px 10px 10px 10px;
+}
+.backgroud {
+    border-radius: 10px 10px 10px 10px;
+}
+.backgroud {
+    transition: background .3s,border-radius .3s,opacity .3s;
+}
+.widget-wrap-bdg {
+    padding: 50px 20px;
+}
+.aheto-content-block__info {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.widget.widget-aheto_features-single {
+    margin-bottom: 20px;
+}
+.aheto-content-block--icon-text-modern .aheto-content-block__img-wrap {
+    width: 55px;
+    height: 50px;
+    margin-right: 12px;
+}
+.aheto-content-block--icon-text-modern .aheto-content-block__info-wrap {
+    width: calc(100% - 67px);
+}
+.aheto-content-block__title {
+    text-align: left;
+    color: #1a1a1a;
+    font-weight: 700;
+}
+.widget.widget-aheto_heading-h1 {
+    margin-bottom: 20px;
+}
+.widget-container.h1 {
+    margin: 80px 0 0;
+}
+h3.aheto-heading__title {
+    font-size: 32px;
+    line-height: 1.33;
+    font-family: raleway;
+    font-weight: 800;
+    color: #111;
+    font-style: normal;
+}
+.aheto-form-link [type=submit].aheto-btn--underline-anime:not(.aheto-btn--no-underline), .aheto-link.aheto-btn--underline-anime:not(.aheto-btn--no-underline) {
+    border-bottom: none;
+    background-image: -webkit-gradient(linear,left top,right top,color-stop(0,currentColor),to(currentColor));
+    background-image: -webkit-linear-gradient(left,currentColor 0,currentColor 100%);
+    background-image: -o-linear-gradient(left,currentColor 0,currentColor 100%);
+    background-image: linear-gradient(to right,currentColor 0,currentColor 100%);
+    background-position: 0 calc(100% - 0.1em);
+    background-size: 0 2px;
+    -webkit-transition: background-size .25s cubic-bezier(.785,.135,.15,.86) 0s;
+    -o-transition: background-size .25s cubic-bezier(.785,.135,.15,.86) 0s;
+    transition: background-size .25s cubic-bezier(.785,.135,.15,.86) 0s;
+    background-repeat: no-repeat;
+}
+.aheto-form-link.aheto-btn--dark input[type=submit], .aheto-link.aheto-btn--dark {
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 0;
+    font-family: raleway;
+    font-weight: 700;
+    color: #000;
+}
+img.entered.lazyloaded-bdg {
+    width: 100%;
+    height: auto;
+}
+section.section-strected.section-boxed.section-height-default {
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding: 0 0 113px;
+
+}

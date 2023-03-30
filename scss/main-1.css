@@ -1,0 +1,185 @@
+section.section-stretched.section-boxed {
+    margin-top: 123px;
+    margin-bottom: 0;
+    padding: 0;
+}
+.widget.widget-aheto_heading-s2 {
+    margin-bottom: 20px;
+}
+.widget-container-1 {
+    margin: 0 0 20px;
+}
+h2.aheto-heading__title {
+    font-size: 48px;
+    line-height: 1.2;
+    font-family: raleway;
+    font-weight: 800;
+    color: #111;
+    font-style: normal;
+}
+.animated-slow.widget.widget-aheto_clients.animated.fadeIn {
+    margin-bottom: 20px;
+}
+.widget-container-slow {
+    margin: -40px 0 0;
+    padding: 0;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);
+}
+section.section-strected.section-boxed.reverse-s1 {
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 130px 0 110px;
+}
+.aheto-clients--classic {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.aheto-clients--classic {
+    position: relative;
+}
+.aheto-clients--classic.aheto-clients--5-in-row .aheto-clients__holder {
+    -ms-flex-preferred-size: 20%;
+    flex-basis: 20%;
+}
+.aheto-clients--classic.aheto-clients--5-in-row .aheto-clients__holder {
+    -ms-flex-preferred-size: 20%;
+    flex-basis: 20%;
+}
+.aheto-clients--classic .aheto-clients__holder {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 150px;
+    min-width: 130px;
+    height: 130px;
+}
+.aheto-clients--classic .aheto-clients__holder {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 150px;
+    min-width: 130px;
+    height: 130px;
+}
+.aheto-clients--classic a {
+    display: inline-block;
+}
+.aheto-clients--classic a {
+    display: inline-block;
+}
+.aheto-clients--classic.grayscale img {
+    opacity: 1;
+    -webkit-filter: grayscale(100%) brightness(1.3);
+    filter: grayscale(100%) brightness(1.3);
+}
+
+.aheto-clients--classic img {
+    -webkit-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+    opacity: 1;
+    max-height: 100%;
+    max-width: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+.column-wrap.populated-heading {
+    margin: 0 80px 0 0;
+    --e-column-margin-right: 80px;
+    --e-column-margin-left: 0px;
+}
+.column-wrap.poplated-image {
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+.widget-wrap.image {
+    padding: 0 80px 0 0;
+}
+.aheto-heading.aheto-heading--main.t-left.align-tablet-default.align-mob-default.aheto_heading {
+    text-align: left;
+}
+.widget-container.p {
+    margin: 25px 80px 0 0;
+}
+p.aheto-heading__title {
+    font-family: raleway;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000;
+    font-style: normal;
+}
+.aheto-btn-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: -8px -13px;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.aheto-form-link.aheto-btn--primary input[type=submit], .aheto-link.aheto-btn--primary {
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 0;
+    font-family: raleway;
+    font-weight: 700;
+    color: #111;
+}
+.aheto-btn-container .aheto-btn, .aheto-btn-container .aheto-link, .aheto-btn-container .cs-link {
+    margin: 8px 13px;
+}
+section.section-strected.section-boxed.reverse {
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 80px 0 0;
+}
+img.attachment-full.size-full.wp-image-36689.entered.lazyloaded {
+    width: 512px;
+    height: 481px;
+}
+.widget-wrap.image-s1 {
+    padding: 0 70px 0 0;
+}
+.column-wrap.populated-heading {
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+.widget-wrap.heading {
+    padding: 80px 0px;
+}
+.widget.container {
+    padding: 0px;
+}

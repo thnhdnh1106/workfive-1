@@ -1,0 +1,24 @@
+section.section-stretched.section-boxed.section-height-default-bgv {
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 120px 0 125px;
+    background-color: #111;
+}
+.column-wrap.populated-bgv {
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    margin: 0 15px 0 0;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 0px;
+}
+.background-bgv {
+    transition: background .3s,border-radius .3s,opacity .3s;
+}
+h3.aheto-heading__title-bgv {
+    text-align: left;
+    color: #fff;
+}
+p.aheto-heading__title-bgv {
+    text-align: left;
+    color: #fff;
+}
