@@ -1,0 +1,103 @@
+.section-wrap {
+    padding: 130px 25px 87px;
+}
+.widget-wrap-image {
+    padding: 0 30px 0 0;
+}
+.widget-container-footer {
+    margin-bottom: 20px;
+}
+.content-widget-footer-contact {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.widget.widget-image-footer {
+    margin-bottom: 20px;
+}
+.widget-wrap-list-footer {
+    padding: 10px;
+}
+.column-wrap.populated-footer {
+    --e-icon-list-icon-size: 16px;
+    --e-icon-list-icon-align: left;
+    --e-icon-list-icon-margin: 0 calc(var( --e-icon-list-icon-size, 1em) * 0.25) 0 0;
+    margin-bottom: 20px;
+}
+.widget .icon-list-items {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li.icon-list-item {
+    margin-top: calc(12px/2);
+    padding-bottom: calc(12px/2);
+}
+
+.widget .icon-list-item, .widget .icon-list-item a {
+    display: flex;
+    align-items: center;
+    font-size: inherit;
+}
+
+
+li.icon-list-item>a {
+    font-family: raleway,Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;;
+}
+span.icon-list-icon {
+    text-align: var(--e-icon-list-icon-align);
+}
+span.icon-list-icon {
+    color: #939393;
+    width: 1.25em;
+    font-size: var(--e-icon-list-icon-size);
+}
+span.icon-list-text {
+    color: #353535;
+    padding-left: 15px;
+    align-self: center;
+    padding-left: 5px;
+    text-decoration: none;
+}
+.widget-container-footer-contact {
+    margin: 13px 0 0;
+    padding: 0;
+}
+.widget_aheto__info.widget_aheto__info--tel {
+    position: relative;
+    margin-bottom: 17px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+i.fa-solid {
+    margin-right: 20px;
+}
+a.widget_aheto__link {
+    font-size: 15px;
+    font-weight: 500;
+    color: #353535;
+    text-decoration: none;
+    font-family: raleway;
+}
+h5.widget-nav-menu__title {
+    margin: 0 0 30px;
+    text-align: left;
+    color: #5d5d5d;
+    font-family: raleway,Sans-serif;
+}
+li.menu-item.menu-item-type-post_type.menu-item-object-page {
+    margin: 0 0 10px;
+    display: block;
+}
+.widget-nav-menu__menu li a {
+    color: #353535;
+}
+.widget-nav-menu__menu li a {
+    font-family: raleway,Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+}

@@ -1,0 +1,55 @@
+section.section-stretched.section.section-boxed-bgk.section-default-bgk {
+    overflow: hidden;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    margin-top: 130px;
+    margin-bottom: 5px;
+    padding: 0;
+}
+.column-wrap.populated-bgk {
+    background-image: url(https://n.foxdsgn.com/twilo/wp-content/uploads/2022/07/Frame-121-min.png);
+    background-size: cover;
+    border-radius: 50px 50px 50px 50px;
+}
+.widget-wrap-bgk {
+    padding: 10px;
+}
+.widget-container-image-bgk {
+    margin: 0 20px 50px;
+}
+.column-wrap.populated-content-bgk {
+    margin: 0 0 0 30px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 30px;
+}
+.widget.widget-aheto_heading-bgk {
+    margin-bottom: 20px;
+}
+.widget_container-title-bgk {
+    margin: 80px 0 0;
+    padding: 0;
+}
+.aheto-btn-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: -8px -13px;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.aheto-btn.aheto-btn--light, .aheto-form-btn.aheto-btn--light input[type=submit] {
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 1.5px;
+    font-family: raleway;
+    font-weight: 600;
+    padding: 14px 24px;
+    border: 1px inset #515151;
+    color: #111;
+    border-radius: 15px;
+}
+a.aheto-btn.aheto-btn--primary {
+    text-decoration: none;
+}

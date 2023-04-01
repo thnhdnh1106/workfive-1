@@ -13,12 +13,16 @@
     <link href="./scss/main-1.css" rel="stylesheet" >
     <link href="./scss/main-2.css" rel="stylesheet" >
     <link href="./scss/main-3.css" rel="stylesheet" >
+    <link href="./scss/main-4.css" rel="stylesheet" >
+    <link href="./scss/footer.css" rel="stylesheet" >
     <script scr="./asset/js/jv.js"></script>
     <title>Simple shop</title>
 </head>
 <body >
     <?php include_once("header.php")?>
     <?php include_once("body.php")?>
+    <footer class="aheto-footer">
     <?php include_once("footer.php")?>
+    </footer>
 </body>
 </html>

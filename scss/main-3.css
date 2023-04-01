@@ -22,3 +22,45 @@ p.aheto-heading__title-bgv {
     text-align: left;
     color: #fff;
 }
+/* bgh */
+section.section-stretched.section-boxed-bgh.section-height-default-bgh {
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    padding: 130px 0 0;
+}
+.column-wrap.populated-bgh {
+    background-color: #f2f2f2;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    border-radius: 20px 20px 20px 20px
+}
+.widget-wrap-bgh {
+    padding: 70px;
+}
+.widget.widget-aheto_heading-bgh {
+    margin-bottom: 20px;
+}
+.elementor-widget-container {
+    margin: 0 80px 30px 0;
+    padding: 0;
+}
+.column-wrap-bgh.populated-bgh {
+    padding: 0 8px 0px 0px;
+}
+.aheto-contents--faq .aheto-contents__title {
+    margin: 0;
+    padding: 27px 0;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.widget-wrap-bgh-col {
+    padding: 0 8px 0 0;
+}

@@ -42,8 +42,11 @@
                         </div>
                     </div>
             </section>
-            <section class="section-stretched section-boxed section-height-default-bgh ">
+            <section class="section-stretched section-boxed-bgh section-height-default-bgh " style="width: 1903px; left: 0px;">
                     <?php include_once("./components/section-8.php")?>
+            </section>
+            <section class="section-stretched section section-boxed-bgk section-default-bgk" style="width: 1903px; left: 0px;">
+                    <?php include_once("./components/section-9.php")?>
             </section>
         </div>
     </div>

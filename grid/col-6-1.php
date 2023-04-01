@@ -1,8 +1,8 @@
 <div class="col-6">
-                                <div class="column-wrap populated-bgh">
-                                    <div class="widget-wrap-bgh">
+                                <div class="column-wrap-bgh populated-bgh">
+                                    <div class="widget-wrap-bgh-col">
                                         <div class="widget widget-aheto_contents">
-                                            <div class="elementor-widget-container">
+                                            <div class="elementor-widget-container-bgh">
                                                 <div class="aheto_contents  aheto-contents aheto-contents--faq js-accordion-parent">
                                                     <div class="aheto-contents__item ">
                                                         <h5 class="aheto-contents__title js-accordion">How does SAASworld make money?</h5>
